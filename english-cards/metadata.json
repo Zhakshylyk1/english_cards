@@ -1,0 +1,6 @@
+{
+  "name": "English Cards",
+  "description": "Приложение для изучения английских слов по карточкам с уровнями сложности и вариантами ответа",
+  "requestFramePermissions": [],
+  "majorCapabilities": [""]
+}
